@@ -9,6 +9,7 @@ public static class Vector3Extensions
     {
         return new Vector3(x ?? vector.x, y ?? vector.y, z ?? vector.z);
     }
+    
 
     /// <summary>
     /// Adds to any x y z values of a Vector3

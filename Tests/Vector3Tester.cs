@@ -11,7 +11,7 @@ public class Vector3Tester
     public void Vector3TesterSimplePasses()
     {
         Vector3 v = Vector3.zero;
-        
+        Debug.Log(v.With(x: 1,y: 2,z:3));
         // Use the Assert class to test conditions
     }
 
