@@ -1,12 +1,8 @@
 {
-    "name": "Unity.Extensions.Editor",
+    "name": "Unity.Utils.Runtime",
     "rootNamespace": "",
-    "references": [
-        "GUID:328e952adb38ecd4d8e8679dd98cfdd6"
-    ],
-    "includePlatforms": [
-        "Editor"
-    ],
+    "references": [],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,

@@ -38,7 +38,7 @@ public static class TransformExtensions {
     /// </summary>
     /// <param name="transform">Transform to use</param>
     public static void Reset(this Transform transform) {
-        transform.position = Vector3.zero;
+        transform.localPosition = Vector3.zero;
         transform.localRotation = Quaternion.identity;
         transform.localScale = Vector3.one;
     }
