@@ -1,8 +1,8 @@
 {
-  "name": "com.sun.unity-extensions",
+  "name": "com.sun.unity-utils",
   "version": "1.0.0",
-  "displayName": "Unity.Extensions",
-  "description": "unity相关拓展",
+  "displayName": "Unity.Utils",
+  "description": "unity相关工具",
   "unity": "2019.1",
   "author": {
     "name": "sun"
